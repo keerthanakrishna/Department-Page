@@ -1,0 +1,67 @@
+#topbar{
+    padding: 25px;
+    background-color: rgb(117, 8, 117);
+    
+}
+.menu-item{
+    font-size: 15px;
+    padding: 8px;
+    font-weight: 600px;
+    color:  white;
+}
+#topbar1{
+    padding: 25px;
+    background-color: rgb(16, 6, 110);
+    
+}
+.menu-item1{
+    font-size: 15px;
+    padding: 8px;
+    font-weight: 600px;
+    color: white;
+}
+#visi{
+    
+    padding: 8px;
+    background-color:hsla(195, 100%, 75%, 0.41);
+    opacity: 0.5;
+    border-radius: 10px;
+}
+#bg{
+    color: rgb(11, 44, 41);
+    font-size: 20px;
+}
+#misi{
+    
+    padding: 8px;
+    background-color:hsla(145, 100%, 75%, 0.51);
+    opacity: 0.5;
+    border-radius: 10px;
+}
+#bg1{
+    color:rgb(8, 247, 8);
+    font-size: 20px;
+}
+#prog{
+    
+    padding: 8px;
+    background-color:hsla(304, 100%, 75%, 0.51);
+    opacity: 0.5;
+    border-radius: 10px;
+}
+#bg2{
+    color:rgb(240, 6, 208);
+    font-size: 20px;
+}
+#sty{
+    font-size: 20px;
+}
+#tab{
+    
+    font-size: 20px;
+    margin-left: 1400px;
+}
+#tables{
+    font-size: 20px;
+    margin-left: 1420px;
+}
